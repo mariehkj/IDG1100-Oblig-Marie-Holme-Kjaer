@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 198, 238);
+}
+
+#oblig{
+    background-color: rgb(254, 254, 254);
+    width: 50%;
+    margin-left: 22.5%;
+    padding: 2.5%;
+    border-radius: 30px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#italic{font-style: italic;}
+
+#ul-12{ /*<ul> in question 12*/
+    list-style-type: none;
+}
+
